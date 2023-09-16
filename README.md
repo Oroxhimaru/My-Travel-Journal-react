@@ -3,10 +3,10 @@
 ## problem / solution
 
 If you're copy-pasting code from Bootstrap and encountering a linting warning related to the style prop in React, it's possible that there's a discrepancy between the expected format of the style prop in React and the format of the Bootstrap code you're pasting.
-instead of this
-<div style="color: red; font-size: 16px;">Hello, Bootstrap!</div>
-do this
-<div style={{ color: 'red', fontSize: '16px' }}>Hello, React!</div>
+instead of this 
+![image](https://github.com/Oroxhimaru/My-Travel-Journal-react/assets/110180871/439889c5-2539-4cf1-906b-453d0c58a154)
+
+
 
 
 ## Learn More
